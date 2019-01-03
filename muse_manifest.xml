@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com" resolutions="1x" timestamp="1546546988458">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com" resolutions="1x" timestamp="1546547981349">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="484748252" ref="index:garbage-collector"/>
-    <file name="index.css" crc="4054702290" ref="index"/>
+    <file name="index.css" crc="3839910911" ref="index"/>
     <file name="garbage-collector.css" crc="4273195309" ref="garbage-collector"/>
   </folder>
   <folder name="assets">
@@ -14,15 +14,10 @@
     <file name="whatinput.js" crc="86476730" ref="index:garbage-collector"/>
     <file name="museconfig.js" crc="4286661555" ref="index:garbage-collector"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:garbage-collector"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u179.php" crc="432687855" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:garbage-collector"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:garbage-collector"/>
     <file name="require.js" crc="7928878" ref="index:garbage-collector"/>
   </folder>
-  <file name="index.html" crc="3905109289" seo="true" mt="1546546858176" redirect="true"/>
+  <file name="index.html" crc="3904630619" seo="true" mt="1546547960948" redirect="true"/>
   <file name="garbage-collector.html" crc="4110671297" seo="true" mt="1546544923442" redirect="true"/>
 </manifest>
