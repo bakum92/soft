@@ -1,23 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com" resolutions="1x" timestamp="1546547981349">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com" resolutions="1x" timestamp="1546600475812">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="484748252" ref="index:garbage-collector"/>
-    <file name="index.css" crc="3839910911" ref="index"/>
-    <file name="garbage-collector.css" crc="4273195309" ref="garbage-collector"/>
+    <file name="master_______-a.css" crc="32548920" ref="special_characters:index:garbage-collector"/>
+    <file name="special_characters.css" crc="168700005" ref="special_characters"/>
+    <file name="index.css" crc="4061215293" ref="index"/>
+    <file name="garbage-collector.css" crc="3786767442" ref="garbage-collector"/>
   </folder>
   <folder name="assets">
     <file name="3_templates.rar" crc="3890044227" seo="true" mt="1546529158000"/>
+    <file name="186629.png" crc="4251854578" seo="true" mt="1546597050000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:garbage-collector"/>
-    <file name="museutils.js" crc="340535759" ref="index:garbage-collector"/>
-    <file name="whatinput.js" crc="86476730" ref="index:garbage-collector"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:garbage-collector"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:garbage-collector"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:garbage-collector"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:garbage-collector"/>
-    <file name="require.js" crc="7928878" ref="index:garbage-collector"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:garbage-collector:special_characters"/>
+    <file name="museutils.js" crc="340535759" ref="index:garbage-collector:special_characters"/>
+    <file name="whatinput.js" crc="86476730" ref="index:garbage-collector:special_characters"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:garbage-collector:special_characters"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:garbage-collector:special_characters"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:garbage-collector:special_characters"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:garbage-collector:special_characters"/>
+    <file name="require.js" crc="7928878" ref="index:garbage-collector:special_characters"/>
   </folder>
-  <file name="index.html" crc="3904630619" seo="true" mt="1546547960948" redirect="true"/>
-  <file name="garbage-collector.html" crc="4110671297" seo="true" mt="1546544923442" redirect="true"/>
+  <file name="index.html" crc="288019687" seo="true" mt="1546599930560" redirect="true"/>
+  <file name="garbage-collector.html" crc="429233066" seo="true" mt="1546599930560" redirect="true"/>
+  <file name="special_characters.html" crc="210663501" seo="true" mt="1546600338284" redirect="true"/>
 </manifest>

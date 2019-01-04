@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://github.com/index.html</loc>
-    <lastmod>2019-01-03</lastmod>
+    <lastmod>2019-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://github.com/garbage-collector.html</loc>
-    <lastmod>2019-01-03</lastmod>
+    <lastmod>2019-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.com/special_characters.html</loc>
+    <lastmod>2019-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://github.com/assets/3_templates.rar</loc>
     <lastmod>2019-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.com/assets/186629.png</loc>
+    <lastmod>2019-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
